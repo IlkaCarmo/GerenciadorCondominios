@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\GerenciadorCondominios.csproj": {}
+    "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.DAL\\GerenciadorCondominios.DAL.csproj": {}
   },
   "projects": {
     "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj": {
@@ -108,80 +108,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\GerenciadorCondominios.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\GerenciadorCondominios.csproj",
-        "projectName": "GerenciadorCondominios",
-        "projectPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\GerenciadorCondominios.csproj",
-        "packagesPath": "C:\\Users\\ilkap\\.nuget\\packages\\",
-        "outputPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\ilkap\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netcoreapp3.1"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj": {
-                "projectPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj"
-              },
-              "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.DAL\\GerenciadorCondominios.DAL.csproj": {
-                "projectPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.DAL\\GerenciadorCondominios.DAL.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[3.1.2, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
