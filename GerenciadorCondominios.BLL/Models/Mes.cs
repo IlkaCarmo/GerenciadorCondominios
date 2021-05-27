@@ -4,7 +4,15 @@ using System.Text;
 
 namespace GerenciadorCondominios.BLL.Models
 {
-    class Mes
+    public class Mes
     {
+        public int MesId { get; set; }
+        public string Nome { get; set; }
+
+        public virtual ICollection<Aluguel> Alugueis { get; set; }
+        public virtual ICollection<HistoricoRecurso> HistoricoRecursos { get; set; }
+
+
+
     }
 }

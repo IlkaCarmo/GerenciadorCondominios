@@ -1,10 +1,12 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Identity;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace GerenciadorCondominios.BLL.Models
 {
-    class Funcao
+     public class Funcao : IdentityRole <string>
     {
+
     }
 }

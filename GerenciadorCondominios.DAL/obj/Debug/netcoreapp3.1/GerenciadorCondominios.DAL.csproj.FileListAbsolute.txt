@@ -1,0 +1,4 @@
+C:\ProjetosBackEnd\GerenciadorCondominios\GerenciadorCondominios.DAL\bin\Debug\netcoreapp3.1\GerenciadorCondominios.BLL.dll
+C:\ProjetosBackEnd\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.csprojAssemblyReference.cache
+C:\ProjetosBackEnd\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.AssemblyInfoInputs.cache
+C:\ProjetosBackEnd\GerenciadorCondominios\GerenciadorCondominios.DAL\obj\Debug\netcoreapp3.1\GerenciadorCondominios.DAL.AssemblyInfo.cs
