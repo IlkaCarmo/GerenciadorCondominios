@@ -12,7 +12,7 @@ namespace GerenciadorCondominios.BLL.Models
 
         public Tipos Tipo { get; set; }
 
-        public int Dias { get; set; }
+        public int Dia { get; set; }
 
         public int MesId { get; set; }
 

@@ -22,7 +22,7 @@ namespace GerenciadorCondominios.BLL.Models
 
         public virtual ICollection<Evento> Eventos { get; set; }
 
-        public virtual ICollection<Serviso> Servisos { get; set; }
+        public virtual ICollection<Servico> Servicos { get; set; }
 
         public virtual ICollection<Pagamento> Pagamentos { get; set; }
 

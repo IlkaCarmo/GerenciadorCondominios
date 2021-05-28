@@ -9,7 +9,7 @@ namespace GerenciadorCondominios.BLL.Models
     {
         public int ServicoPredioId { get; set; }
         public int ServicoId { get; set; }
-        public virtual Servico Serviso{ get; set; }
+        public virtual Servico Servico{ get; set; }
         public DateTime DataExecucao { get; set; }
     }
 }

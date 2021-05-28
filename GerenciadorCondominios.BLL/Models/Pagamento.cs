@@ -4,7 +4,7 @@ using System.Text;
 
 namespace GerenciadorCondominios.BLL.Models
 {
-    class Pagamento
+   public  class Pagamento
     {
         public int PagamentoId { get; set; }
         public string UsuarioId { get; set; }

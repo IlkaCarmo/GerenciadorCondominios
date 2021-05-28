@@ -36,6 +36,9 @@ namespace GerenciadorCondominios.DAL.Mapeamentos
                 NormalizedName = "ADMINISTRADOR",
                 Descricao = "Administrador do prédio"
             });
+
+            builder.ToTable("Funcoes");
+
         }
     }
 }
