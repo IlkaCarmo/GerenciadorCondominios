@@ -136,24 +136,24 @@ namespace GerenciadorCondominios.DAL.Migrations
                     b.HasData(
                         new
                         {
-                            Id = "ab8b2003-e1ef-4601-bce9-6a6b131c24c5",
-                            ConcurrencyStamp = "fda5ee61-ba3c-44e4-92f4-4de785097878",
+                            Id = "bde93ce4-d7c2-41e2-ba08-c124e47bd3fb",
+                            ConcurrencyStamp = "b62171c0-3b92-405c-9887-687f488f1009",
                             Descricao = "Morador do prédio",
                             Name = "Morador",
                             NormalizedName = "MORADOR"
                         },
                         new
                         {
-                            Id = "0ca26796-3e3a-4294-971c-4efbcb794cc1",
-                            ConcurrencyStamp = "f2c0a228-d702-4b56-8521-24057fb79a36",
+                            Id = "efe5be60-457f-44cc-997e-ed90cb17fe98",
+                            ConcurrencyStamp = "88768eb4-bfc4-4049-8ab2-69a0cab40989",
                             Descricao = "Sindico do prédio",
                             Name = "Sindico",
                             NormalizedName = "SINDICO"
                         },
                         new
                         {
-                            Id = "e14b4fc2-4deb-4e49-95d7-1f49155024cb",
-                            ConcurrencyStamp = "ccfe0c29-ae27-43a0-b258-72aab0e0b54d",
+                            Id = "05882e9c-4706-4353-8fca-330c982ef55e",
+                            ConcurrencyStamp = "498b9b65-5653-4c9f-8b49-351fb37f770d",
                             Descricao = "Administrador do prédio",
                             Name = "Administrador",
                             NormalizedName = "ADMINISTRADOR"
