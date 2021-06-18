@@ -8392,11 +8392,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\GerenciadorCondominios.csproj",
+      "projectUniqueName": "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios\\GerenciadorCondominios.csproj",
       "projectName": "GerenciadorCondominios",
-      "projectPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\GerenciadorCondominios.csproj",
+      "projectPath": "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios\\GerenciadorCondominios.csproj",
       "packagesPath": "C:\\Users\\ilkap\\.nuget\\packages\\",
-      "outputPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios\\obj\\",
+      "outputPath": "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ilkap\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8413,11 +8413,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj": {
-              "projectPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj"
+            "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj": {
+              "projectPath": "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj"
             },
-            "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.DAL\\GerenciadorCondominios.DAL.csproj": {
-              "projectPath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.DAL\\GerenciadorCondominios.DAL.csproj"
+            "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios.DAL\\GerenciadorCondominios.DAL.csproj": {
+              "projectPath": "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios.DAL\\GerenciadorCondominios.DAL.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VS8HVXmbw+7Ck+eCmZU93z1pwq//5cscqnn+uhS13oRttDVm02hZhW6Svd5OFuUeDAXTZCQuEv6EMbD4ELdJ9Q==",
+  "dgSpecHash": "UvmJ5NSwUWIoxJ+MHBzQgnnQFR81RaqazI/PBQD/atJbH5jwUHCEzBmzd9/B2CWu+tTtDOptW2MaPEhOelblcw==",
   "success": true,
-  "projectFilePath": "C:\\ProjetosBackEnd\\GerenciadorCondominios\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj",
+  "projectFilePath": "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios.BLL\\GerenciadorCondominios.BLL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ilkap\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.2\\microsoft.aspnetcore.cryptography.internal.3.1.2.nupkg.sha512",
     "C:\\Users\\ilkap\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.2\\microsoft.aspnetcore.cryptography.keyderivation.3.1.2.nupkg.sha512",

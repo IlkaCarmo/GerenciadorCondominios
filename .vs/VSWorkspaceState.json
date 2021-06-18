@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GerenciadorCondominios",
+    "\\GerenciadorCondominios.BLL",
+    "\\GerenciadorCondominios.BLL\\Models",
+    "\\GerenciadorCondominios\\Models",
+    "\\GerenciadorCondominios\\obj",
+    "\\GerenciadorCondominios\\obj\\Debug",
+    "\\GerenciadorCondominios\\obj\\Release",
+    "\\GerenciadorCondominios\\Views",
+    "\\GerenciadorCondominios\\Views\\Usuarios"
+  ],
+  "PreviewInSolutionExplorer": false
+}
