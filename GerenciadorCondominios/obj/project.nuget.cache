@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Ce9gzJe8eB9lFg/B3/UAJ/PQTVg8DBw6HV/P9eCM3gow+3lzEopbva7qXtL2H0A5XU5hKOUNYszntgC3LU16xA==",
+  "dgSpecHash": "S/ogUBdwWe/agF1fyPLJHNO0o3IiBaHvM0L57xIitwH/5naPJvZmcXZ3eQdKUCT13+k++2HG3RmStKPfzQqydg==",
   "success": true,
   "projectFilePath": "C:\\ProjetosBackEnd\\Condominio\\GerenciadorCondominios\\GerenciadorCondominios.csproj",
   "expectedPackageFiles": [
@@ -160,7 +160,8 @@
     "C:\\Users\\ilkap\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ilkap\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ilkap\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ilkap\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\ilkap\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\ilkap\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.17\\microsoft.netcore.app.host.win-x64.3.1.17.nupkg.sha512"
   ],
   "logs": []
 }
